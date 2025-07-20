@@ -1,10 +1,10 @@
-# 📊 Dataset Assignments Repository
+# Dataset Assignments Repository
 
 This repository contains a collection of Python projects and assignments focused on data exploration, preprocessing, and machine learning workflows using datasets. These assignments demonstrate key concepts like data cleaning, forecasting, visualization, and evaluation using modern tools like **pandas**, **Prophet**, and **scikit-learn**.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 dataset_assignments/
@@ -26,7 +26,7 @@ dataset_assignments/
 
 ---
 
-## ✅ Completed Assignments
+## Completed Assignments
 
 ### 1. **CIFAR-10 Dataset Preprocessing**
 
@@ -43,7 +43,7 @@ dataset_assignments/
 
 ---
 
-## 📦 Tools Used
+## Tools Used
 
 - `pandas`
 - `Prophet`
@@ -52,14 +52,14 @@ dataset_assignments/
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Large data files (`.npy`, `.tar.gz`) are excluded from GitHub using `.gitignore`
 - All code is written in Python 3.12 and executed in VS Code with Anaconda
 
 ---
 
-## 🔄 Upcoming Sections
+## Upcoming Sections
 
 - Time Series Challenge
 - YAML Exploration Assignment
@@ -67,7 +67,7 @@ dataset_assignments/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 To try out the assignments in this repo:
 
@@ -105,7 +105,7 @@ python temperature_prediction.py
 
 ---
 
-## 🤖 AI Usage Disclosure
+## AI Usage Disclosure
 
 All project logic, scripts, and structure were human-authored and iteratively refined using ChatGPT as a programming assistant. ChatGPT provided debugging help, code planning support, and README generation under the direct guidance of Even Richardson.
 
